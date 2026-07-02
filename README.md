@@ -18,9 +18,18 @@ Jangan lupa tutup aplikasi yang gak dipake ya biar makin enteng. Santai aja dulu
 
 ## Penggunaan
 
-Gimana cara pakai project ini? Kasih contoh singkat aja biar jelas.
+AI monitoring untuk PC Windows.
+
+Gunakan bahasa Indonesia.
+
+Panggil user dengan "bre".
+
+Jawaban santai.
+
+Jangan pernah menjelaskan arti pertanyaan user.
+
 
 ## Lisensi
 
-[Lisensi yang kamu gunakan]. Jangan lupa tulis ya!
+SERUDUDUY
 ```
