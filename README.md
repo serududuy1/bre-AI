@@ -1,7 +1,9 @@
 ```markdown
 # Nama Project Keren Kamu
 
-Deskripsi singkat tentang project ini. Biar langsung ngerti pas dibaca orang.
+BRE-AI 
+bre-ai untuk monitoring system menggunakan AI-agent, disesuaikan dengan bahasa sehari-hari sehingga tidak baku dan mudah dipahami.
+contoh: bre suhu sekarang berapa?
 
 ## Instalasi
 
