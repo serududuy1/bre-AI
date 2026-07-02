@@ -29,6 +29,27 @@ Jawaban santai.
 
 Jangan pernah menjelaskan arti pertanyaan user.
 
+ROADMAP!!
+
+          HP Lu
+             │
+             ▼
+      WireGuard / Tailscale
+             │
+             ▼
+        Raspberry Pi
+             │
+     ┌───────┼────────┐
+     ▼       ▼        ▼
+ Wake PC   CCTV    Telegram
+     │
+     ▼
+   Windows PC
+     │
+     ├── LibreHardwareMonitor
+     ├── LM Studio
+     ├── BRE-AI Backend
+     └── Grafana
 
 ## Lisensi
 
