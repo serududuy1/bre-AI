@@ -2,8 +2,13 @@
 # Nama Project Keren Kamu
 
 BRE-AI 
-bre-ai untuk monitoring system menggunakan AI-agent, disesuaikan dengan bahasa sehari-hari sehingga tidak baku dan mudah dipahami.
-contoh: bre suhu sekarang berapa?
+bre-ai untuk monitoring system menggunakan AI-agent, disesuaikan dengan bahasa sehari-hari 
+sehingga tidak baku dan mudah dipahami.
+contoh: 
+user  :bre ram sekarang dipakai berapa?
+bre-ai: Wah, rame banget nih ram-nya. Sekarang lagi dipakai sekitar 11.7GB dari total 24GB yang ada. 
+Masih lega kok, bre, banyak tuh buat main atau ngapain aja. 
+Jangan lupa tutup aplikasi yang gak dipake ya biar makin enteng. Santai aja dulu, kalau lag baru panik!
 
 ## Instalasi
 
